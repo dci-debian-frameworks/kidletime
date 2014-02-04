@@ -1,0 +1,41 @@
+Source: kidletime
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Rohan Garg <rohangarg@kubuntu.org>
+Build-Depends: debhelper (>= 8.0.0), cmake,
+ extra-cmake-modules,
+ libqt5x11extras-dev,
+ pkg-config,
+ libxcb-sync0-dev,
+ qtbase5-dev,
+ pkg-kde-tools
+Standards-Version: 3.9.5
+Section: libs
+Homepage: https://projects.kde.org/kidletime
+
+Package: libkf5idletime-dev
+Section: libdevel
+Architecture: any
+Depends: libkf5idletime5 (= ${binary:Version})
+Description: development headers for the kidletime library
+ This package contains development files for building software that uses
+ libraries from the kidletime KDE framework.
+
+Package: libkf5idletime5
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: library to provide information about idle time
+ This library contains a class that allows applications to watch for
+ user activity or inactivity. It is useful not only for finding out about
+ the current idle time of the PC, but also for getting notified upon idle
+ time events, such as custom timeouts, or user activity.
+
+Package: libkf5idletime5-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Depends: libkf5idletime5 (= ${binary:Version})
+Description: debugging symbols for the kidletime libraries
+ This package contains debugging files used to investigate problems with
+ the libkf5idletime5 package
