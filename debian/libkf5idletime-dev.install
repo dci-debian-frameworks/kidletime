@@ -1,3 +1,5 @@
 usr/include/*
 usr/lib/*/lib*.so
 usr/lib/*/cmake/
+usr/share/qt5/mkspecs/modules/qt_KIdleTime.pri
+
