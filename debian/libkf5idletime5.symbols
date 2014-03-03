@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5IdleTime.so.4 libkf5idletime4 #MINVER#
+libKF5IdleTime.so.5 libkf5idletime5 #MINVER#
  _ZN9KIdleTime11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN9KIdleTime11qt_metacastEPKc@Base 4.96.0
  _ZN9KIdleTime14addIdleTimeoutEi@Base 4.96.0
