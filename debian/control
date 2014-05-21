@@ -26,6 +26,7 @@ Package: libkf5idletime5
 Section: libs
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Multi-Arch: same
 Description: library to provide information about idle time
  This library contains a class that allows applications to watch for
  user activity or inactivity. It is useful not only for finding out about
