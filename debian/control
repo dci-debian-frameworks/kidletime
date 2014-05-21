@@ -2,13 +2,14 @@ Source: kidletime
 Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Rohan Garg <rohangarg@kubuntu.org>
-Build-Depends: debhelper (>= 8.0.0), cmake,
- extra-cmake-modules (>= 0.0.13),
- libqt5x11extras5-dev,
- pkg-config,
- libxcb-sync0-dev,
- qtbase5-dev,
- pkg-kde-tools
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               extra-cmake-modules (>= 0.0.13),
+               libqt5x11extras5-dev,
+               libxcb-sync0-dev,
+               pkg-config,
+               pkg-kde-tools,
+               qtbase5-dev
 Standards-Version: 3.9.5
 Section: libs
 Homepage: https://projects.kde.org/kidletime
@@ -24,7 +25,7 @@ Description: development headers for the kidletime library
 Package: libkf5idletime5
 Section: libs
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: library to provide information about idle time
  This library contains a class that allows applications to watch for
  user activity or inactivity. It is useful not only for finding out about
