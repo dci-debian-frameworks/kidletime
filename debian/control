@@ -18,7 +18,8 @@ Homepage: https://projects.kde.org/kidletime
 Package: libkf5idletime-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5idletime5 (= ${binary:Version})
+Depends: libkf5idletime5 (= ${binary:Version}),
+ qtbase5-dev
 Description: development headers for the kidletime library
  This package contains development files for building software that uses
  libraries from the kidletime KDE framework.
