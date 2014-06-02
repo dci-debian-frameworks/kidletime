@@ -4,7 +4,7 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Rohan Garg <rohangarg@kubuntu.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
-               extra-cmake-modules (>= 0.0.13),
+               extra-cmake-modules (>= 0.0.14),
                libqt5x11extras5-dev,
                libxcb-sync0-dev,
                libxss-dev,
@@ -18,8 +18,7 @@ Homepage: https://projects.kde.org/kidletime
 Package: libkf5idletime-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5idletime5 (= ${binary:Version}),
- qtbase5-dev
+Depends: libkf5idletime5 (= ${binary:Version}), qtbase5-dev
 Description: development headers for the kidletime library
  This package contains development files for building software that uses
  libraries from the kidletime KDE framework.
