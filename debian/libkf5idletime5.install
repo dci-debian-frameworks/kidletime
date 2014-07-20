@@ -1,1 +1,2 @@
-usr/lib/*/libKF5IdleTime.so.5*
+usr/lib/*/libKF5IdleTime.so.5
+usr/lib/*/libKF5IdleTime.so.5.*
