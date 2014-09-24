@@ -14,8 +14,8 @@ Build-Depends: cmake,
 Standards-Version: 3.9.5
 Section: libs
 Homepage: https://projects.kde.org/kidletime
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/kidletime
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/kidletime
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/frameworks/kidletime.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kidletime.git
 
 Package: libkf5idletime-dev
 Section: libdevel
