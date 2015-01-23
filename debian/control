@@ -13,6 +13,7 @@ Build-Depends: cmake (>= 2.8.12),
                qtbase5-dev (>= 5.2.0)
 Standards-Version: 3.9.6
 Section: libs
+XS-Testsuite: autopkgtest
 Homepage: https://projects.kde.org/kidletime
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/frameworks/kidletime.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kidletime.git
