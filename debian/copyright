@@ -15,7 +15,7 @@ License: GPL-2+
 
 Files: debian/*
 Copyright: 2014 Rohan Garg <rohangarg@kubuntu.org>
-License: GPL-2+
+License: LGPL-2
 
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
