@@ -1,10 +1,10 @@
-kidletime (5.7.0-1~) UNRELEASED; urgency=medium
+kidletime (5.7.0-1) experimental; urgency=medium
 
   * New upstream release (5.7.0).
   * Update build dependencies.
   * Update copyright information.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 24 Feb 2015 17:37:13 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 02 Mar 2015 16:14:59 +0100
 
 kidletime (5.7.0-0ubuntu1) vivid; urgency=medium
 
