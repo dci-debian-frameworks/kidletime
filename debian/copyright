@@ -3,14 +3,18 @@ Upstream-Name: kidletime
 Source: git://anongit.kde.org/kidletime
 
 Files: *
-Copyright: © 2009 Dario Freddi <drf@kde.org>
-           © 2008 Kopete <kopete-devel@kde.org>
-           © 2008 Roman Jarosz <kedgedev@centrum.cz>
-           © 2003 Tarkvara Design Inc. (from KVIrc source code)
+Copyright: 2009, Dario Freddi <drf@kde.org>
+           2008, Roman Jarosz <kedgedev@centrum.cz>
+           2003, Tarkvara Design Inc. (from KVIrc source code)
+           2008, the Kopete developers <kopete-devel@kde.org>
 License: LGPL-2
 
-Files: examples/*
-Copyright: © 2009 Dario Freddi <drf@kde.org>
+Files: COPYING
+       examples/KIdleTest.cpp
+       examples/KIdleTest.h
+       examples/main.cpp
+Copyright: 2009, Dario Freddi <drf@kde.org>
+           1989-1991, Free Software Foundation, Inc
 License: GPL-2+
 
 Files: debian/*
