@@ -1,8 +1,8 @@
-kidletime (5.9.0-0ubuntu1) UNRELEASED; urgency=medium
+kidletime (5.9.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Apr 2015 10:57:12 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:24:27 +0200
 
 kidletime (5.8.0-0ubuntu1) vivid; urgency=medium
 
