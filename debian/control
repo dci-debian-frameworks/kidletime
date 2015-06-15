@@ -10,6 +10,7 @@ Build-Depends: cmake (>= 2.8.12),
                libx11-xcb-dev,
                libxcb-sync-dev,
                libxcb1-dev,
+               pkg-config,
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
