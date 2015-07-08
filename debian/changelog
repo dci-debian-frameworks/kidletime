@@ -5,6 +5,7 @@ kidletime (5.11.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * Vivid backport
+  * Add missing file. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 08 Jul 2015 08:20:44 -0700
 
