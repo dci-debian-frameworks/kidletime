@@ -70,3 +70,6 @@ libKF5IdleTime.so.5 libkf5idletime5 #MINVER#
  _ZTV17WidgetBasedPoller@Base 5.13.0
  _ZTV20AbstractSystemPoller@Base 5.13.0
  _ZTV9KIdleTime@Base 4.96.0
+KF5IdleTimeXcbPlugin0.so libkf5idletime5 #MINVER#
+ qt_plugin_instance@Base 5.13.0
+ qt_plugin_query_metadata@Base 5.13.0
