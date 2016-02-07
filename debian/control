@@ -37,12 +37,3 @@ Description: library to provide information about idle time
  user activity or inactivity. It is useful not only for finding out about
  the current idle time of the PC, but also for getting notified upon idle
  time events, such as custom timeouts, or user activity.
-
-Package: libkf5idletime5-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Depends: libkf5idletime5 (= ${binary:Version})
-Description: debugging symbols for the kidletime libraries
- This package contains debugging files used to investigate problems with
- the libkf5idletime5 package
