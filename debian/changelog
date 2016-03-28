@@ -1,13 +1,14 @@
-kidletime (5.20.0-1~1.gbp82346f) UNRELEASED; urgency=medium
+kidletime (5.20.0-1~2.gbpf12a44) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @82346f21a623d6e119a8122e899438f97fb3891f **
+  ** SNAPSHOT build @f12a4490adc1a5ab3edb964122bd52df080677ea **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 23 Mar 2016 23:08:23 +0100
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Mon, 28 Mar 2016 15:02:55 +0200
 
 kidletime (5.19.0-1) experimental; urgency=medium
 
