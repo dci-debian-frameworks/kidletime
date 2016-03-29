@@ -1,6 +1,6 @@
-kidletime (5.20.0-1~4.gbp8d6471) UNRELEASED; urgency=medium
+kidletime (5.20.0-1~5.gbpe9f810) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8d64718a176e057674c033fffe7bb29dfe422553 **
+  ** SNAPSHOT build @e9f810d0d70c080e4e8fa3ca2a484712b69bd7ee **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
@@ -9,8 +9,9 @@ kidletime (5.20.0-1~4.gbp8d6471) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 03:01:06 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 09:00:48 +0200
 
 kidletime (5.19.0-1) experimental; urgency=medium
 
