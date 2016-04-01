@@ -1,3 +1,19 @@
+kidletime (5.20.0-1~6.gbp536060) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @53606045cfd7115b3cdc5e0e035832485ade352e **
+
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
+  * UNRELEASED
+  * UNRELEASED
+  * UNRELEASED
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 10:56:21 +0200
+
 kidletime (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
