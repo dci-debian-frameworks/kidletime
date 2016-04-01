@@ -1,6 +1,6 @@
-kidletime (5.20.0-1~7.gbpcae992) UNRELEASED; urgency=medium
+kidletime (5.20.0-1~8.gbpd9265e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @cae99276a13fd0892c9c256442a53af86a2602a7 **
+  ** SNAPSHOT build @d9265e4aec339af7e39d446da12dcc26db78c17c **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
@@ -12,8 +12,9 @@ kidletime (5.20.0-1~7.gbpcae992) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * Update acc test script
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 01 Apr 2016 17:56:14 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:56:23 +0200
 
 kidletime (5.19.0-1) experimental; urgency=medium
 
