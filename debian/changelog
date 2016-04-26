@@ -1,3 +1,9 @@
+kidletime (5.21.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release, xenial backport. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 25 Apr 2016 18:50:58 -0700
+
 kidletime (5.18.0-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
