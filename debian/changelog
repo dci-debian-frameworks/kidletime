@@ -1,21 +1,10 @@
-kidletime (5.21.0-1~2.gbpdd6566) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @dd65668a29e7229dc11a3859c58f424d0c4a3dcb **
+kidletime (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @d9265e4aec339af7e39d446da12dcc26db78c17c **
-
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
   * Update acc test script
-  * UNRELEASED
   * uscan no longer supports more than one main upstream tarball being listed
 
   [ Automatic packaging ]
@@ -23,9 +12,7 @@ kidletime (5.21.0-1~2.gbpdd6566) UNRELEASED; urgency=medium
   * Update symbols files.
   * Bump Standards-Version to 3.9.8
 
-  [ Maximiliano Curia ]
-
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 30 Apr 2016 20:05:37 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 05 May 2016 18:38:57 +0200
 
 kidletime (5.19.0-1) experimental; urgency=medium
 
