@@ -1,3 +1,14 @@
+kidletime (5.22.0-1~1.gbpc0f85a) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c0f85aeddfa322ba73cdef5f3c5ca24835e7d263 **
+
+  * Update symbols files.
+  * Update changelog for 5.21.0-1~3.gbp76b30e release
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files from buildds logs (5.21.0-1).
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 16 May 2016 01:05:29 +0200
+
 kidletime (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
