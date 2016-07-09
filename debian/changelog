@@ -1,10 +1,16 @@
-kidletime (5.23.0-2~1.gbpe00587) UNRELEASED; urgency=medium
+kidletime (5.24.0-1~1.gbp1c3e70) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @1c3e708ff104a45ad8a8644b14c70a5a628e92b1 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @e0058771fcc0743099872017900c2bf9d44a2589 **
 
   * Update symbols files.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 08:18:23 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 09 Jul 2016 14:56:10 +0200
 
 kidletime (5.23.0-1) unstable; urgency=medium
 
