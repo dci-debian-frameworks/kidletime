@@ -1,20 +1,13 @@
-kidletime (5.25.0-1~2.gbpd21529) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d215297b8d540f6e4dc63cc4ec894553564044c2 **
+kidletime (5.25.0-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @e0058771fcc0743099872017900c2bf9d44a2589 **
-
-  * Update symbols files.
   * Bump group breaks (5.25)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
   * Update symbols files.
-  * Update build-deps and deps with the info from cmake
-  * Update symbols files.
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:56:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:21:15 +0200
 
 kidletime (5.23.0-1) unstable; urgency=medium
 
