@@ -1,3 +1,11 @@
+kidletime (5.26.0-2~1.gbpaf2557) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @af2557cc9b4e5541baf652de258ceb9cbd2f6d09 **
+
+  * Update symbols files from buildds logs (5.26.0-1).
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 29 Sep 2016 17:56:43 +0200
+
 kidletime (5.26.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
