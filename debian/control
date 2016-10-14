@@ -4,7 +4,7 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
-               extra-cmake-modules (>= 5.25.0~),
+               extra-cmake-modules (>= 5.26.0~),
                libqt5x11extras5-dev (>= 5.5.0~),
                libx11-dev,
                libx11-xcb-dev,
@@ -27,7 +27,7 @@ Depends: libkf5idletime5 (= ${binary:Version}), qtbase5-dev (>= 5.5.0~)
 Description: development headers for the kidletime library
  This package contains development files for building software that uses
  libraries from the kidletime KDE framework.
-Breaks: libkf5kdelibs4support-dev (<< 5.25)
+Breaks: libkf5kdelibs4support-dev (<< 5.26)
 
 Package: libkf5idletime5
 Section: libs
@@ -40,4 +40,4 @@ Description: library to provide information about idle time
  user activity or inactivity. It is useful not only for finding out about
  the current idle time of the PC, but also for getting notified upon idle
  time events, such as custom timeouts, or user activity.
-Breaks: baloo-kf5 (<< 5.25)
+Breaks: baloo-kf5 (<< 5.26)
