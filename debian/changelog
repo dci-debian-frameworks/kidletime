@@ -1,3 +1,12 @@
+kidletime (5.28.0-1~1.gbp341ba2) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @341ba2b0b9c6ef5ae759b87c7014b6f49d650e30 **
+
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files from buildds logs (5.27.0-1).
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 15 Nov 2016 14:56:23 +0100
+
 kidletime (5.27.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
