@@ -1,4 +1,4 @@
-kidletime (5.35.0-1~1) UNRELEASED; urgency=medium
+kidletime (5.36.0-1~) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (5.35.0).
@@ -6,6 +6,8 @@ kidletime (5.35.0-1~1) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
   * Bump group breaks (5.35)
   * Ignore libxss-dev in hurd
+  * watch: Use https uris
+  * New upstream release (5.36.0).
 
   [ Harald Sitter ]
   * add optional fallback dependency
@@ -16,7 +18,7 @@ kidletime (5.35.0-1~1) UNRELEASED; urgency=medium
   * Add signing key
   * also include signing-key
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Jul 2017 14:09:31 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:34:03 +0200
 
 kidletime (5.28.0-1) unstable; urgency=medium
 
