@@ -27,7 +27,7 @@ Depends: libkf5idletime5 (= ${binary:Version}), qtbase5-dev (>= 5.7.0~)
 Description: development headers for the kidletime library
  This package contains development files for building software that uses
  libraries from the kidletime KDE framework.
-Breaks: libkf5kdelibs4support-dev (<< 5.36)
+Breaks: libkf5kdelibs4support-dev (<< 5.37)
 
 Package: libkf5idletime5
 Section: libs
@@ -39,4 +39,4 @@ Description: library to provide information about idle time
  user activity or inactivity. It is useful not only for finding out about
  the current idle time of the PC, but also for getting notified upon idle
  time events, such as custom timeouts, or user activity.
-Breaks: baloo-kf5 (<< 5.36)
+Breaks: baloo-kf5 (<< 5.37)
