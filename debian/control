@@ -45,6 +45,7 @@ Description: library to provide information about idle time (documentation)
  time events, such as custom timeouts, or user activity.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5idletime5
 Architecture: any
