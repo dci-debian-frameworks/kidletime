@@ -2,6 +2,9 @@
 KF5IdleTimeXcbPlugin0.so libkf5idletime5 #MINVER#
  qt_plugin_instance@Base 5.13.0
  qt_plugin_query_metadata@Base 5.13.0
+KF5IdleTimeXcbPlugin1.so libkf5idletime5 #MINVER#
+ qt_plugin_instance@Base 5.13.0
+ qt_plugin_query_metadata@Base 5.13.0
 libKF5IdleTime.so.5 libkf5idletime5 #MINVER#
  _ZN17WidgetBasedPoller10addTimeoutEi@Base 5.13.0
  _ZN17WidgetBasedPoller11eventFilterEP7QObjectP6QEvent@Base 5.13.0
